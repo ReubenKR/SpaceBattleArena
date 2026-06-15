@@ -40,7 +40,7 @@ public class ExampleShip extends BasicSpaceship {
         }
         ObjectStatus ship = env.getShipStatus();
         RadarResults radar = env.getRadar();
-        if (!(ababa)) {
+        if (!(ababa) && ship.getSpeed()>10) {
             ababa = true;
             return new DeployLaserBeaconCommand();
         }
@@ -50,9 +50,9 @@ public class ExampleShip extends BasicSpaceship {
             ababa = false;
             return new ThrustCommand('B', .3, 1.0);
         } else if (ship.getSpeed() > 15 && ship.getEnergy()>50) {
-            return new IdleCommand(2);
+            return new RotateCommand(ship.getPosition().getAngleTo(midpoint) - ship.getOrientation());
 
         }
-        return new IdleCommand(2);
+        return new FireTorpedoCommand('F');
     }
 }
