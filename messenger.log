@@ -1,0 +1,4360 @@
+Message sent from 33 to 0 - 
+  REGISTER([Ship1, [255, 255, 255], 0])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([THRST, {DUR=0.3, BLOCK=true, DIR=B, PER=1.0}])
+Message sent from 33 to 0 - 
+  SCMD([DLBN])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([RADAR, {TARGET=0, LVL=4}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([REP, {AMT=20}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  SCMD([IDLE, {DUR=2.0}])
+Message sent from 33 to 0 - 
+  MWNL2_DISCONNECT(null)
